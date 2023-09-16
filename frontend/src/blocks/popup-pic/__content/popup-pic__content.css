@@ -1,0 +1,7 @@
+.popup-pic__content {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: relative;
+    transition: visibility .3s, opacity .3s ease-in;
+}

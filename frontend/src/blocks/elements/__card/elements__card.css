@@ -1,0 +1,8 @@
+.elements__card {
+    border-radius: 10px;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    object-fit: cover;
+    position: relative;
+}

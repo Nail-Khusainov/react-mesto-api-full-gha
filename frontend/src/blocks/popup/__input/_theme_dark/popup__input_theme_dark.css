@@ -1,0 +1,12 @@
+.popup__input_theme_dark {
+    background-color: black;
+    color: #CCCCCC;
+    border-bottom: 2px #CCCCCC solid;
+    margin: 30px auto 0px;
+    padding: 0 0 7px 0;
+    /* text-align: start; */
+}
+
+.popup__input_theme_dark:first-of-type {
+    margin: 3px auto;
+}
